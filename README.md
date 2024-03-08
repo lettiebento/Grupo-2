@@ -35,7 +35,7 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 ***2.2. Requisitos de sistema***
 
-*<Link para a pasta com os requisitos de usuário.>*
+*<Link para a pasta de requisitos de sistema .>*
 
 ***2.3. Protótipos***
 
