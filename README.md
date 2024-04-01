@@ -25,7 +25,7 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 ***1.3. Descrição dos usuários***
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Poderá ser colocado em formato de tabela.>*
+*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
 
 ## 2. Documentos gerais no repositório
 
