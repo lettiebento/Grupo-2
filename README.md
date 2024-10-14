@@ -7,7 +7,10 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+Letícia Bento Pinto - lettiebento
+Josiane Mariane Batista - josibatista
+Pamela Berti Braz - pamms2
+Maria Clara Nascimento de Jesus - clarandj
 
 ***1.2.  Nome do Sistema***
 
